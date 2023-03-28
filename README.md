@@ -24,7 +24,7 @@ If there are substantive<sup>1</sup> changes made to this blanket privacy policy
 
 ## Feedback
 
-If you have questions or concerns about this privacy policy, feel free to [send me an email](mailto:samwanglisa@gmail.com) or [file an issue](https://github.com/LisaSamWang/extension-privacy-policy/issues/new) to this repository.
+If you have questions or concerns about this privacy policy, feel free to [send me an email](mailto:samwanglisa@gmail.com) or [file an issue](https://github.com/LisaSamWang/privacypolicy/issues/new) to this repository.
 
 ***
 
