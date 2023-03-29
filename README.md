@@ -2,7 +2,7 @@
 
 ## Intro
 
-Different extensions use personal data in different ways. This privacy policy encompasses general principles of how extensions I create collect and handle personal data. Individual extensions, when you first use them, will display their own unique privacy policies and ask you to agree to them before continued use.
+Different extensions use personal data in different ways. This privacy policy encompasses general principles of how extensions I create collect and handle personal data. When you install the extension, you are agreeing to the privacy.
 
 ## Data Collection
 
@@ -12,11 +12,11 @@ That being said, there are a few other ways your data is used.
 
 ## Chrome Storage API
 
-Several of my extensions take advantage of [Google Chrome's Storage API](https://developers.chrome.com/extensions/storage) to locally store minimal state information. This is similar to a [cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies). Examples of data stored this way might include the title and/or keypoints for your last post generation for the LinkedIn Post Generator Extension or information about if and when you agreed to the privacy policy. Google syncs this information across your various computers and Chrome installations. However, my extensions only access this data locally on your machine and they do not transmit it. 
+Several of my extensions take advantage of [Google Chrome's Storage API](https://developers.chrome.com/extensions/storage) to locally store minimal state information. This is similar to a [cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies). Examples of data stored this way might include the title and/or keypoints and other previous filled fields for your last post generation for the ContentCrate Extension or information about if and when you agreed to the privacy policy. Google syncs this information across your various computers and Chrome installations. However, my extensions only access this data locally on your machine and they do not transmit it. 
 
 ## Third-Party APIs
 
-Some of my extensions access third party APIs and report back the results. For example, when you use the LinkedIn Post Generator Extension, it sends the topic and keypoints you want the content to have, receives information back (text for the post), and then incorporates that information into the data it writes to the clipboard. Generally, when my extensions use these third Party API services, they will send some non-personal information about the page you are visiting. However, when extensions access a third party API, there is some personal information that third party receives in the [request header](https://developer.mozilla.org/en-US/docs/Glossary/Request_header), most notably your [IP address](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm) and [user agent string](https://developer.chrome.com/multidevice/user-agent). Some companies will use information like that to develop a “[browser fingerprint](https://pixelprivacy.com/resources/browser-fingerprinting/)" that can probably track and personally identify you. Unfortunately, this is not something that I or my extensions have control over. If this is a concern for you, consider using a VPN to mask your IP address.
+Some of my extensions access third party APIs and report back the results. For example, when you use the ContentCrate Extension, it sends the topic and keypoints and other filled fields, receives information back (generated text), and then incorporates that information into the data it writes to the appropriate fields/clipboard. Generally, when my extensions use these third Party API services, they will send some non-personal information about the page you are visiting. However, when extensions access a third party API, there is some personal information that third party receives in the [request header](https://developer.mozilla.org/en-US/docs/Glossary/Request_header), most notably your [IP address](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm) and [user agent string](https://developer.chrome.com/multidevice/user-agent). Some companies will use information like that to develop a “[browser fingerprint](https://pixelprivacy.com/resources/browser-fingerprinting/)" that can probably track and personally identify you. Unfortunately, this is not something that I or my extensions have control over. If this is a concern for you, consider using a VPN to mask your IP address.
 
 ## Changes to the Privacy Policy
 
